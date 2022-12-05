@@ -46,7 +46,7 @@ The code is uploaded in the code file.
 
 
 ## Diagram
-![6](https://user-images.githubusercontent.com/113371324/205553511-d88c2dc2-4b17-4cee-9a5e-95b3d1dd9fb5.png)
+![diagram1](https://user-images.githubusercontent.com/113371324/205556233-aa3c31c6-6330-4760-97f6-d48dd6c83996.png)
 
 
 
